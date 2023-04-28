@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alejandra Pucheta</h1>
 <h3 align="center">A passionate backend developer who also enjoys software testing.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrea29-18" alt="andrea29-18" /></a> </p>
-
 - 🌱 I’m currently learning **ASP.NET Core Web Application**
 
 - 📫 How to reach me **aavp0316@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
