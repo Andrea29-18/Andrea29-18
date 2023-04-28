@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejandra Pucheta</h1>
 <h3 align="center">A passionate backend developer who also enjoys software testing.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrea29-18" alt="andrea29-18" /></a> </p>
-
 - 🌱 I’m currently learning **ASP.NET Core Web Application**
 
 - 📫 How to reach me **aavp0316@gmail.com**
@@ -68,3 +66,4 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrea29-18&show_icons=true&locale=en&layout=compact" alt="andrea29-18" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrea29-18&show_icons=true&locale=en" alt="andrea29-18" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrea29-18" alt="andrea29-18" /></a> </p>
