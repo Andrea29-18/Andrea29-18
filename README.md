@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **ASP.NET Core Web Application**
 
 - 📫 How to reach me **aavp0316@gmail.com**
+- 🦊 GitLab account **https://gitlab.com/Andrea29-18**
 
 <h2 align="left">Skills</h2>
 
