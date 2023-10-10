@@ -56,20 +56,3 @@
 	<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
 	</a> 
 </p>
-
-## GitHub Stats 📈
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrea29-18&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrea29-18&show_icons=true&locale=en&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=andrea29-18&theme=darkhub" alt="Trophies">
-  </a>
-</p>
-
