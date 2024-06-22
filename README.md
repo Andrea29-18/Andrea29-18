@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#ff6f61;"> Hello! 👋 I'm Andrea Alejandra Vargas Pucheta</h1>
+<h1 align="center" style="color:#ff6f61;"> Hello! 👋 I'm Alejandra Pucheta</h1>
 <h3 align="center" style="color:#ffcc5c;">Software Engineer</h3>
 
 <h2 style="color:#88d8b0;">🧑 About Me</h2>
