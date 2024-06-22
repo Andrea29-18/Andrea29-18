@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#ff6f61;"> Hello! 👋 I'm Alejandra Pucheta</h1>
 <h3 align="center" style="color:#ffcc5c;">Software Engineer</h3>
 
-<h2 style="color:#88d8b0;">🧑 About Me</h2>
+<h2 style="color:#88d8b0;">👩‍💻 About Me</h2>
 <p style="font-size: 18px; line-height: 1.6;">
   I'm a <b>passionate backend developer</b> with a strong interest in <b>software testing</b>. I'm dedicated to creating robust and efficient solutions, ensuring each component works perfectly. Additionally, I enjoy collaborating on <b>open-source projects</b> and am always looking for new opportunities to learn and grow in the <b>software development</b> field. Currently, I'm focusing on enhancing my skills in <b>web development</b> technologies and <b>continuous deployment</b>.
 </p>
@@ -19,7 +19,7 @@
 
 <h2 style="color:#ff6f69;">🛠️ Technologies I Use</h2>
 
-### Backend
+### 🤖 Backend
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </div>
 
-### Frontend
+### 🎨 Frontend
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
 </div>
 
-### Databases
+### 📉 Databases
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver">
 </div>
 
-### Deployment & Testing
+### ☁️ Deployment & Testing
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
@@ -54,8 +54,6 @@
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
 </div>
-
----
 
 <h2 style="color:#ffcc5c;">🔗 Connect with Me</h2>
 <div align="center">
@@ -65,6 +63,19 @@
   <a href="https://www.linkedin.com/in/andrea-alejandra-vargas-pucheta-229a91293/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+</div>
+
+---
+
+<h2 style="color:#f7a8a8;">📊 GitHub Stats:</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrea29-18&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea29-18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
+
+<h3 style="color:#f7a8a8;">🏆 GitHub Trophies</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Andrea29-18&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
 
 ---
